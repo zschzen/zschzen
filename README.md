@@ -50,18 +50,6 @@ I'm Leandro Peres, a ***LGBTQIA+** indie Game Worker* from Goiânia, Brazil.
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-**🐱 My Github Data** 
-
-> 🏆 321 Contributions in the Year 2020
- > 
-> 📦 3.2 MB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 17 Public Repositories 
- > 
-> 🔑 9 Private Repositories  
-
 **I'm a Night 🦉** 
 
 ```text
@@ -88,12 +76,7 @@ Sunday       15 commits     █░░░░░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: America/Sao_Paulo
-
 💬 Programming Languages: 
-No Activity Tracked This Week
-
-💻 Operating System: 
 No Activity Tracked This Week
 
 ```
