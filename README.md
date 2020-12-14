@@ -48,4 +48,66 @@ I'm Leandro Peres, a ***LGBTQIA+** indie Game Worker* from Goiânia, Brazil.
 ![Heroku](https://img.shields.io/badge/_-Heroku-292e33?style=flat-square&logo=heroku&logoColor=fff)
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 316 Contributions in the Year 2020
+ > 
+> 📦 3.2 MB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 17 Public Repositories 
+ > 
+> 🔑 9 Private Repositories  
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.41% 
+🌆 Daytime    63 commits     ███████░░░░░░░░░░░░░░░░░░   31.19% 
+🌃 Evening    82 commits     ██████████░░░░░░░░░░░░░░░   40.59% 
+🌙 Night      38 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.81%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       37 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.32% 
+Tuesday      29 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.36% 
+Wednesday    40 commits     █████░░░░░░░░░░░░░░░░░░░░   19.8% 
+Thursday     41 commits     █████░░░░░░░░░░░░░░░░░░░░   20.3% 
+Friday       28 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.86% 
+Saturday     12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.94% 
+Sunday       15 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.43%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in C#** 
+
+```text
+C#                       12 repos            ██████████████████░░░░░░░   75.0% 
+JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
+
+```
+
+
+
 <!--END_SECTION:waka-->
