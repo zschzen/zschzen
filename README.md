@@ -52,7 +52,7 @@ I'm Leandro Peres, a ***LGBTQIA+** indie Game Worker* from Goiânia, Brazil.
 
 **🐱 My Github Data** 
 
-> 🏆 316 Contributions in the Year 2020
+> 🏆 321 Contributions in the Year 2020
  > 
 > 📦 3.2 MB Used in Github's Storage 
  > 
