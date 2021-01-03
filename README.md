@@ -100,7 +100,7 @@ Sunday       15 commits     █░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 36 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
