@@ -54,7 +54,7 @@ I'm Leandro Peres, a ***<span style=color:red>L</span><span style=color:#FFA52C>
 ![Java](https://img.shields.io/badge/_-Java-292e33?style=flat-square&logo=java&logoColor=white)
 ![Lua](https://img.shields.io/badge/_-Lua-292e33?style=flat-square&logo=lua&logoColor=white)
 
-![OpenGL](https://img.shields.io/badge/_-OpenGL-292e33?style=flat-square&logo=opengl&logoColor=white)
+![Cg/HLSL](https://img.shields.io/badge/_-Cg%2FHLSL-292e33?style=flat-square&logo=nvidia&logoColor=fff) ![OpenGL](https://img.shields.io/badge/_-OpenGL-292e33?style=flat-square&logo=opengl&logoColor=white)
 
 ![Electron](https://img.shields.io/badge/_-Electron-292e33?style=flat-square&logo=electron&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/_-NodeJS-292e33?style=flat-square&logo=node.js&logoColor=white)
