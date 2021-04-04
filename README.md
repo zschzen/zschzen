@@ -1,14 +1,15 @@
+
 ## Hey, leander here! <img src="https://raw.githubusercontent.com/zschzen/zschzen/master/wave.gif" width="30px">
 
 <img align="right" alt="Leandro Peres's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=zschzen&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true">
 
 
-I'm Leandro Peres, a ***<span style=color:red>L</span><span style=color:#FFA52C>G</span><span style=color:#FFFF41>B</span><span style=color:#008018>T</span><span style=color:#0000F9>Q</span><span style=color:#86007D>I</span><span style=color:#8B0D88>A</span><span style=color:#C00384>+</span>** Indie Game Worker* from Goiânia, Brazil.
+I'm Leandro Peres, a ***<span style=color:red>L</span><span style=color:#FFA52C>G</span><span style=color:#FFFF41>B</span><span style=color:#008018>T</span><span style=color:#0000F9>Q</span><span style=color:#86007D>I</span><span style=color:#8B0D88>A</span><span style=color:#C00384>+</span>** Game Worker* from Goiânia, **Brazil** :brazil:.
 
--   :hammer_and_pick: Unity/C#/GitHub Actions, a little bit Unreal/C++
+-   :hammer_and_pick: Unity C# Cg/HLSL, and a little bit of Unreal C++
 -   :package: Building [Colorblindness](https://github.com/SOHNE/Colorblindness) and more
--   :pencil2: Arch Linux / i3 / Oh My Zsh / VS Code
--   :man: Pronouns: he/him
+-   :pencil2: Arch Linux / i3 / Oh My Zsh / Rider
+-   :paperclip: Portfolio [PT](https://bit.ly/LeandroPeresPT) - [EN](https://bit.ly/LeandroPeresEN)
 
 ---
 
@@ -66,13 +67,17 @@ I'm Leandro Peres, a ***<span style=color:red>L</span><span style=color:#FFA52C>
 ![MySQL](https://img.shields.io/badge/_-MySQL-292e33?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/_-MongoDB-292e33?style=flat-square&logo=mongodb&logoColor=white)
 
+###### IDEs
+![JetBrains Rider](https://img.shields.io/badge/_-JetBrains%20Rider-292e33?style=flat-square&logo=rider&logoColor=fff)
+![vscode](https://img.shields.io/badge/_-Visual%20Studio%20Code-292e33?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
+![VIM](https://img.shields.io/badge/_-VIM-292e33?style=flat-square&logo=vim&logoColor=fff)
+![WebStorm](https://img.shields.io/badge/_-JetBrains%20WebStorm-292e33?style=flat-square&logo=webstorm&logoColor=fff)
+![Microsoft Word](https://img.shields.io/badge/_-Microsoft%20Word-292e33?style=flat-square&logo=microsoft%20word&logoColor=fff)
+
 ###### Cloud Platform
 
 ![Heroku](https://img.shields.io/badge/_-Heroku-292e33?style=flat-square&logo=heroku&logoColor=fff)
 ![AWS](https://img.shields.io/badge/_-AWS-292e33?style=flat-square&logo=amazon&logoColor=fff)
-
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **I'm a Night 🦉** 
 
