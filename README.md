@@ -4,7 +4,7 @@
 <img align="right" alt="Leandro Peres's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=zschzen&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true">
 
 
-I'm Leandro Peres, a ***LGBTQQICAPF2K+** Game Worker* from Goiânia, **Brazil** :brazil:.
+I'm Leandro Peres, a ***LGBTQIA+** Game Worker* from Goiânia, **Brazil** :brazil:.
 
 -   :hammer_and_pick: Unity C# Cg/HLSL, and a little bit of Unreal C++
 -   :package: Building [Colorblindness](https://github.com/SOHNE/Colorblindness) and more
