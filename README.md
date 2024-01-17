@@ -6,10 +6,10 @@
 
 I'm Leandro Peres, a ***LGBTQIA+** Game Worker* from Goiânia, **Brazil** :brazil:.
 
--   :hammer_and_pick: Unity C# Cg/HLSL, and a little bit of Unreal C++
--   :package: Building [Colorblindness](https://github.com/SOHNE/Colorblindness) and more
+-   :hammer_and_pick: Custom Engines, Unity C# Cg/HLSL, Unreal C++
+-   :package: Building [Dura2D](https://github.com/SOHNE/Dura2D) and more
 -   :pencil2: Arch Linux / i3 / Oh My Zsh / Rider
--   :paperclip: Portfolio [PT](https://bit.ly/LeandroPeresPT) - [EN](https://bit.ly/LeandroPeresEN)
+-   :paperclip: [Portfolio](https://portfolio.peres.dev/)
 
 ---
 
@@ -78,53 +78,3 @@ I'm Leandro Peres, a ***LGBTQIA+** Game Worker* from Goiânia, **Brazil** :brazi
 
 ![Heroku](https://img.shields.io/badge/_-Heroku-292e33?style=flat-square&logo=heroku&logoColor=fff)
 ![AWS](https://img.shields.io/badge/_-AWS-292e33?style=flat-square&logo=amazon&logoColor=fff)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.41% 
-🌆 Daytime    63 commits     ███████░░░░░░░░░░░░░░░░░░   31.19% 
-🌃 Evening    82 commits     ██████████░░░░░░░░░░░░░░░   40.59% 
-🌙 Night      38 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.81%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       37 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.32% 
-Tuesday      29 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.36% 
-Wednesday    40 commits     █████░░░░░░░░░░░░░░░░░░░░   19.8% 
-Thursday     41 commits     █████░░░░░░░░░░░░░░░░░░░░   20.3% 
-Friday       28 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.86% 
-Saturday     12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.94% 
-Sunday       15 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.43%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-C#                       23 hrs 19 mins      █████████████████████░░░░   83.95% 
-Other                    4 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.71% 
-C++                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.35%
-
-🔥 Editors: 
-Rider                    27 hrs 46 mins      █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in C#** 
-
-```text
-C#                       13 repos            ███████████████████░░░░░░   76.47% 
-JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.88% 
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.88%
-
-```
-
-
-
-<!--END_SECTION:waka-->
