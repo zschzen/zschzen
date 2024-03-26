@@ -19,7 +19,7 @@ I'm Leandro Peres, a ***LGBTQIA+** Game Worker* from Goiânia, **Brazil** :brazi
 <br/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leandroperes/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/in/zschzen/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/zschzen/)
 [![GameJolt Badge](https://img.shields.io/badge/-GameJolt-black?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAASCAYAAAC9+TVUAAAABmJLR0QAMwAzADOGP0P2AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3QQWEioKcppZ+gAAACVpVFh0Q29tbWVudAAAAAAAQnkgVC4gR2FudHQKRm9yIEdhbWUgSm9sdGmWHhYAAAFySURBVDjLlZNRjptADIY/ewZynFbKAHnKlbY36B6hh8pLQir1NJECM7gPrSkh7HbXEpoB7G9+zG9p25ZSCgCqyuVyMT4RKSWJpRRijOScmabpM/WICIDFEAKlFESEvu8N4OvrtzcLf73+WALouk60lIKZoar/PXkLICJoXdcAnM/nd1W8BRjHkTgMw4cVAJjNfbeUkqgqpJSwv/Hl+4tdjad1KwADrGmaR8gWYLmuASklUkqILfRtxU/+9GCPPfRkv9+L5+hH/LAGdF0nfh9jRNu2FRFhfb0HyDmz2+0IIWBmRICmacRNt3CtrZzJ4XCQnDMAwzBgZlRVhU7ThIjMAFXler0+AY7Ho+Sc518cYyTG+E+JDyCAm2/dxNvthpkhIpgZrqiu6+fGnk4nWwKappGqqh7AqoqZYWbc73c0hDC/9MIlwOX7M/98B4cQ0OXg9X1vnpxSEre598oPLKUwjuO8V09YFroCn+4tta6iqip+A1woBe4iMk+8AAAAAElFTkSuQmCC)](https://gamejolt.com/@SOHNE)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/peres.dev)
 [![Codepen Badge](https://img.shields.io/badge/-CodePen-black?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/LeandroPeres)
@@ -57,7 +57,7 @@ I'm Leandro Peres, a ***LGBTQIA+** Game Worker* from Goiânia, **Brazil** :brazi
 ![Java](https://img.shields.io/badge/_-Java-292e33?style=flat-square&logo=java&logoColor=white)
 ![Lua](https://img.shields.io/badge/_-Lua-292e33?style=flat-square&logo=lua&logoColor=white)
 
-![Cg/HLSL](https://img.shields.io/badge/_-Cg%2FHLSL-292e33?style=flat-square&logo=nvidia&logoColor=fff) ![OpenGL](https://img.shields.io/badge/_-OpenGL-292e33?style=flat-square&logo=opengl&logoColor=white)
+![Cg/HLSL](https://img.shields.io/badge/_-Cg%2FHLSL-292e33?style=flat-square&logo=nvidia&logoColor=fff) ![OpenGL](https://img.shields.io/badge/_-OpenGL-292e33?style=flat-square&logo=opengl&logoColor=white) ![Vulkan](https://img.shields.io/badge/_-Vulkan-292e33?style=flat-square&logo=vulkan&logoColor=white)
 
 ![Electron](https://img.shields.io/badge/_-Electron-292e33?style=flat-square&logo=electron&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/_-NodeJS-292e33?style=flat-square&logo=node.js&logoColor=white)
