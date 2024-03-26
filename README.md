@@ -51,7 +51,7 @@ I'm Leandro Peres, a ***LGBTQIA+** Game Worker* from Goiânia, **Brazil** :brazi
 ![Jekyll](https://img.shields.io/badge/_-Jekyll-292e33?style=flat-square&logo=jekyll&logoColor=white)
 
 ###### Languages / Frameworks
-![CSharp](https://img.shields.io/badge/_-C%23-292e33?style=flat-square&logo=c-sharp&logoColor=white) ![CSharp](https://img.shields.io/badge/_-C%2B%2B-292e33?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/_-C-292e33?style=flat-square&logo=c&logoColor=white)
+![CSharp](https://img.shields.io/badge/_-C%23-292e33?style=flat-square&logo=csharp&logoColor=white) ![CSharp](https://img.shields.io/badge/_-C%2B%2B-292e33?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/_-C-292e33?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/_-Python-292e33?style=flat-square&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/_-PHP-292e33?style=flat-square&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/_-Java-292e33?style=flat-square&logo=java&logoColor=white)
