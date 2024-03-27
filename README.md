@@ -8,8 +8,8 @@ I'm Leandro Peres, a ***LGBTQIA+** Game Worker* from Goiânia, **Brazil** :brazi
 
 -   :hammer_and_pick: Custom Engines, Raylib, Unity C# Cg/HLSL, Unreal C++
 -   :package: Building [Dura2D](https://github.com/SOHNE/Dura2D) and more
--   :pencil2: Arch Linux / i3 / Oh My Zsh / NVim / Rider
--   :paperclip: [Portfolio](https://portfolio.peres.dev/) | [Resume](https://resume.peres.dev/)
+-   :pencil2: Arch Linux / i3 / Oh My Zsh / NVim
+-   :paperclip: [Portfolio](https://portfolio.peres.dev/) | [Resume](https://resume.peres.dev/) | [Bio](https://leandro.peres.dev/)
 
 ---
 
