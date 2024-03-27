@@ -72,7 +72,8 @@ I'm Leandro Peres, a ***LGBTQIA+** Game Worker* from Goiânia, **Brazil** :brazi
 ###### IDEs
 ![JetBrains Rider](https://img.shields.io/badge/_-JetBrains%20Rider-292e33?style=flat-square&logo=rider&logoColor=fff)
 ![vscode](https://img.shields.io/badge/_-Visual%20Studio%20Code-292e33?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
-![VIM](https://img.shields.io/badge/_-VIM-292e33?style=flat-square&logo=vim&logoColor=fff)
+![Vim](https://img.shields.io/badge/_-Vim-292e33?style=flat-square&logo=vim&logoColor=fff)
+![Neovim](https://img.shields.io/badge/_-Neovim-292e33?style=flat-square&logo=neovim&logoColor=fff)
 ![WebStorm](https://img.shields.io/badge/_-JetBrains%20WebStorm-292e33?style=flat-square&logo=webstorm&logoColor=fff)
 ![Microsoft Word](https://img.shields.io/badge/_-Microsoft%20Word-292e33?style=flat-square&logo=microsoft%20word&logoColor=fff)
 
