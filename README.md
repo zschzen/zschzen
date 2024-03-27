@@ -70,11 +70,11 @@ I'm Leandro Peres, a ***LGBTQIA+** Game Worker* from Goiânia, **Brazil** :brazi
 ![MongoDB](https://img.shields.io/badge/_-MongoDB-292e33?style=flat-square&logo=mongodb&logoColor=white)
 
 ###### IDEs
-![JetBrains Rider](https://img.shields.io/badge/_-JetBrains%20Rider-292e33?style=flat-square&logo=rider&logoColor=fff)
-![vscode](https://img.shields.io/badge/_-Visual%20Studio%20Code-292e33?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
-![Vim](https://img.shields.io/badge/_-Vim-292e33?style=flat-square&logo=vim&logoColor=fff)
 ![Neovim](https://img.shields.io/badge/_-Neovim-292e33?style=flat-square&logo=neovim&logoColor=fff)
-![WebStorm](https://img.shields.io/badge/_-JetBrains%20WebStorm-292e33?style=flat-square&logo=webstorm&logoColor=fff)
+![Vim](https://img.shields.io/badge/_-Vim-292e33?style=flat-square&logo=vim&logoColor=fff)
+![JetBrains Rider](https://img.shields.io/badge/_-Rider-292e33?style=flat-square&logo=rider&logoColor=fff)
+![CLion](https://img.shields.io/badge/_-CLion-292e33?style=flat-square&logo=clion&logoColor=fff)
+![vscode](https://img.shields.io/badge/_-Visual%20Studio%20Code-292e33?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
 ![Microsoft Word](https://img.shields.io/badge/_-Microsoft%20Word-292e33?style=flat-square&logo=microsoft%20word&logoColor=fff)
 
 ###### Cloud Platform
