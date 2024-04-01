@@ -86,6 +86,7 @@ I'm Leandro Peres, a ***LGBTQIA+** Game Worker* from Goiânia, **Brazil** :brazi
 ![Heroku](https://img.shields.io/badge/_-Heroku-292e33?style=flat-square&logo=heroku&logoColor=fff)
 ![AWS](https://img.shields.io/badge/_-AWS-292e33?style=flat-square&logo=amazon&logoColor=fff)
 
+## 📊 Data
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C087%20hrs%2020%20mins-blue)
