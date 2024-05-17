@@ -16,9 +16,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
-    <br>
-    &#12300; a ***LGBTQIA+** Game Worker* from Goiânia, **Brazil** :brazil: &#12301;
+    &#12300; A <i><b>LGBT+</b> Game Worker</i> from Goiânia, <b>Brazil</b> :brazil: &#12301;
     <br>
     <br>
   </samp>
