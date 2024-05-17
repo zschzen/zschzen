@@ -5,12 +5,12 @@
 [![wakatime](https://wakatime.com/badge/user/4dc0c3b5-1e64-4d6a-84b4-a6cd17b7cdac.svg)](https://wakatime.com/@4dc0c3b5-1e64-4d6a-84b4-a6cd17b7cdac)
 
 <!-- Intro  -->
-<h3 align="center">
+<h2 align="center">
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://peres.dev/">Leandro Peres</a></b>
               🖖
         </samp>
-</h3>
+</h2>
 
 <img align="right" alt="Leandro Peres's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=zschzen&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true">
 
