@@ -24,7 +24,7 @@ I'm Leandro Peres, a ***LGBTQIA+** Game Worker* from Goiânia, **Brazil** :brazi
 
 ---
 
-<p align="center" width="100%">
+<p align="center" width="100%" style="text-decoration: none;">
  
   <a href="https://www.linkedin.com/in/leandroperes/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Linkedin Badge"/>
@@ -32,7 +32,7 @@ I'm Leandro Peres, a ***LGBTQIA+** Game Worker* from Goiânia, **Brazil** :brazi
   <a href="https://gamejolt.com/@SOHNE">
     <img src="https://img.shields.io/badge/-GameJolt-black?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAASCAYAAAC9+TVUAAAABmJLR0QAMwAzADOGP0P2AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3QQWEioKcppZ+gAAACVpVFh0Q29tbWVudAAAAAAAQnkgVC4gR2FudHQKRm9yIEdhbWUgSm9sdGmWHhYAAAFySURBVDjLlZNRjptADIY/ewZynFbKAHnKlbY36B6hh8pLQir1NJECM7gPrSkh7HbXEpoB7G9+zG9p25ZSCgCqyuVyMT4RKSWJpRRijOScmabpM/WICIDFEAKlFESEvu8N4OvrtzcLf73+WALouk60lIKZoar/PXkLICJoXdcAnM/nd1W8BRjHkTgMw4cVAJjNfbeUkqgqpJSwv/Hl+4tdjad1KwADrGmaR8gWYLmuASklUkqILfRtxU/+9GCPPfRkv9+L5+hH/LAGdF0nfh9jRNu2FRFhfb0HyDmz2+0IIWBmRICmacRNt3CtrZzJ4XCQnDMAwzBgZlRVhU7ThIjMAFXler0+AY7Ho+Sc518cYyTG+E+JDyCAm2/dxNvthpkhIpgZrqiu6+fGnk4nWwKappGqqh7AqoqZYWbc73c0hDC/9MIlwOX7M/98B4cQ0OXg9X1vnpxSEre598oPLKUwjuO8V09YFroCn+4tta6iqip+A1woBe4iMk+8AAAAAElFTkSuQmCC" alt="GameJolt Badge"/>
   </a>
-  <a href="https://instagram.com/peres.dev">
+  <a href="https://instagram.com/zschzen">
     <img src="https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://codepen.io/LeandroPeres">
