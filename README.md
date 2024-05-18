@@ -12,8 +12,6 @@
         </samp>
 </h2>
 
-<img align="right" alt="Leandro Peres's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=zschzen&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true">
-
 <p align="center"> 
   <samp>
     &#12300; A <i><b>LGBT+</b> Game Worker</i> from Goiânia, <b>Brazil</b> :brazil: &#12301;
@@ -21,6 +19,8 @@
     <br>
   </samp>
 </p>
+
+<img align="right" alt="Leandro Peres's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=zschzen&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true">
 
 -   :hammer_and_pick: Custom Engines, Raylib, Unity C# Cg/HLSL, Unreal C++
 -   :package: Building [Dura2D](https://github.com/SOHNE/Dura2D) and more
