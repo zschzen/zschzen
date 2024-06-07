@@ -54,5 +54,5 @@
     <img src='https://cdn.ko-fi.com/cdn/kofi2.png?v=2' alt='Buy Me a Coffee at ko-fi.com' style='border:0px;height:36px;'/>
   </a>
   <br/><br/>
-  ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=MrMeetes&count=2&show_user=header&footer_style=wave)
+  <img src="https://lastfm-recently-played.vercel.app/api?user=MrMeetes&amp;count=2&amp;show_user=header&amp;footer_style=wave" alt="My scrobbles">
 </p>
