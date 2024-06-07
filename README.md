@@ -53,5 +53,6 @@
   <a href='https://ko-fi.com/I2I014OFH' target='_blank'>
     <img src='https://cdn.ko-fi.com/cdn/kofi2.png?v=2' alt='Buy Me a Coffee at ko-fi.com' style='border:0px;height:36px;'/>
   </a>
-
+  <br/><br/>
+  ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=MrMeetes&count=2&show_user=header&footer_style=wave)
 </p>
