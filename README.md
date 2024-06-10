@@ -12,7 +12,7 @@
         </samp>
 </h2>
 
-<img align="right" alt="Leandro Peres's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=zschzen&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true">
+<img src="https://lastfm-recently-played.vercel.app/api?user=MrMeetes&amp;count=2&amp;show_user=header&amp;footer_style=wave" alt="My scrobbles" align="right" width="50%">
 
 <p align="center"> 
   <samp>
@@ -53,6 +53,4 @@
   <a href='https://ko-fi.com/I2I014OFH' target='_blank'>
     <img src='https://cdn.ko-fi.com/cdn/kofi2.png?v=2' alt='Buy Me a Coffee at ko-fi.com' style='border:0px;height:36px;'/>
   </a>
-  <br/><br/>
-  <img src="https://lastfm-recently-played.vercel.app/api?user=MrMeetes&amp;count=2&amp;show_user=header&amp;footer_style=wave" alt="My scrobbles">
 </p>
