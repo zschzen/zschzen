@@ -12,8 +12,6 @@
         </samp>
 </h2>
 
-<img src="https://lastfm-recently-played.vercel.app/api?user=MrMeetes&amp;count=2&amp;show_user=header&amp;footer_style=wave" alt="My scrobbles" align="right" width="50%">
-
 <p align="center"> 
   <samp>
     &#12300; A <i><b>LGBT+</b> Game Worker</i> from Goiânia, <b>Brazil</b> :brazil: &#12301;
