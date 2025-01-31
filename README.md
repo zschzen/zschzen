@@ -17,7 +17,7 @@
   <samp>
     &#12300; A <i><b>LGBT+</b> Game Worker</i> from Goiânia, <b>Brazil</b> :brazil: &#12301;
     <br>
-    <br>
+    [![Last track played on Last.fm](https://badges.lastfm.workers.dev/last-played?user=MrMeetes&style=for-the-badge)](https://www.last.fm/user/MrMeetes)
   </samp>
 </p>
 
