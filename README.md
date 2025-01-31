@@ -1,3 +1,4 @@
+
 <a href="https://komarev.com/ghpvc/?username=zschzen">
   <img align="right" src="https://komarev.com/ghpvc/?username=zschzen&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
@@ -20,35 +21,33 @@
   </samp>
 </p>
 
+### 👨‍💻 About Me
+
+Game programmer with 10+ years of experience in game development, plus some experience in engine development, physics simulation, and graphics programming. Passionate about optimizing complex systems, mentoring developers, and building engaging gameplay experiences. Skilled in C + C++, Vulkan, OpenGL, and Assembly. Creator of various games, engines, emulators, shader tools, websites...
+
 -   :hammer_and_pick: Custom Engines, Raylib, Unity C# Cg/HLSL, Unreal C++
 -   :package: Building [Dura2D](https://github.com/SOHNE/Dura2D) and more
 -   :pencil2: Arch Linux / i3 / Oh My Zsh / tmux / NVim
 -   :paperclip: [Portfolio](https://portfolio.peres.dev/) | [Resume](https://resume.peres.dev/) | [Bio](https://links.peres.dev/)
 
----
+### 🔧 Tech & Projects
 
-<p align="center" width="100%" style="text-decoration: none;">
- 
-  <a href="https://www.linkedin.com/in/leandroperes/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Linkedin Badge"/>
-  </a>
-  <a href="https://gamejolt.com/@SOHNE">
-    <img src="https://img.shields.io/badge/-GameJolt-black?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAASCAYAAAC9+TVUAAAABmJLR0QAMwAzADOGP0P2AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3QQWEioKcppZ+gAAACVpVFh0Q29tbWVudAAAAAAAQnkgVC4gR2FudHQKRm9yIEdhbWUgSm9sdGmWHhYAAAFySURBVDjLlZNRjptADIY/ewZynFbKAHnKlbY36B6hh8pLQir1NJECM7gPrSkh7HbXEpoB7G9+zG9p25ZSCgCqyuVyMT4RKSWJpRRijOScmabpM/WICIDFEAKlFESEvu8N4OvrtzcLf73+WALouk60lIKZoar/PXkLICJoXdcAnM/nd1W8BRjHkTgMw4cVAJjNfbeUkqgqpJSwv/Hl+4tdjad1KwADrGmaR8gWYLmuASklUkqILfRtxU/+9GCPPfRkv9+L5+hH/LAGdF0nfh9jRNu2FRFhfb0HyDmz2+0IIWBmRICmacRNt3CtrZzJ4XCQnDMAwzBgZlRVhU7ThIjMAFXler0+AY7Ho+Sc518cYyTG+E+JDyCAm2/dxNvthpkhIpgZrqiu6+fGnk4nWwKappGqqh7AqoqZYWbc73c0hDC/9MIlwOX7M/98B4cQ0OXg9X1vnpxSEre598oPLKUwjuO8V09YFroCn+4tta6iqip+A1woBe4iMk+8AAAAAElFTkSuQmCC" alt="GameJolt Badge"/>
-  </a>
-  <a href="https://instagram.com/zschzen">
-    <img src="https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://codepen.io/LeandroPeres">
-    <img src="https://img.shields.io/badge/-CodePen-black?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen Badge"/>
-  </a>
-  <a href="mailto:leandroperes@protonmail.com">
-    <img src="https://img.shields.io/badge/-Protonmail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Protonmail Badge"/>
-  </a>
-  <br/>
-  <a href="https://www.buymeacoffee.com/leandroperes" target="_blank">
-    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;"/>
-  </a>
-  <a href='https://ko-fi.com/I2I014OFH' target='_blank'>
-    <img src='https://cdn.ko-fi.com/cdn/kofi2.png?v=2' alt='Buy Me a Coffee at ko-fi.com' style='border:0px;height:36px;'/>
-  </a>
-</p>
+
+![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus&logoColor=00599C) ![C#](https://img.shields.io/badge/-C%23-000?&logo=csharp&logoColor=239120) ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript) ![Python](https://img.shields.io/badge/-Python-000?&logo=python) ![Lua](https://img.shields.io/badge/-Lua-000?&logo=lua) ![Assembly](https://img.shields.io/badge/-Assembly-000?&logo=assemblyscript) 
+
+### Game Engines & Frameworks 
+
+![Unity](https://img.shields.io/badge/-Unity-000?&logo=unity) ![Unreal](https://img.shields.io/badge/-Unreal-000?&logo=unrealengine) ![Raylib](https://img.shields.io/badge/-Raylib-000?&logo=raylib) 
+
+### Graphics & Rendering 
+![OpenGL](https://img.shields.io/badge/-OpenGL-000?&logo=opengl) ![Vulkan](https://img.shields.io/badge/-Vulkan-000?&logo=vulkan) ![GLSL](https://img.shields.io/badge/-GLSL-000?&logo=glsl) 
+
+### Web Technologies
+ ![React](https://img.shields.io/badge/-React-000?&logo=react) ![NextJS](https://img.shields.io/badge/-NextJS-000?&logo=nextdotjs) ![PHP](https://img.shields.io/badge/-PHP-000?&logo=php) ![WordPress](https://img.shields.io/badge/-WordPress-000?&logo=wordpress) 
+
+### 🧮 Mathematics & Physics
+![3D Math](https://img.shields.io/badge/-3D%20Math-000?&logo=math) ![Physics Simulation](https://img.shields.io/badge/-Physics%20Simulation-000?&logo=physics) ![Newtonian Dynamics](https://img.shields.io/badge/-Newtonian%20Dynamics-000?&logo=scientific) ![Calculus](https://img.shields.io/badge/-Calculus-000?&logo=calculator)
+
+### 🌐 Social & Contact Links
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin)](https://linkedin.com/in/leandroperes) [![Email](https://img.shields.io/badge/-Email-000?&logo=gmail)](mailto:hello@peres.dev)
