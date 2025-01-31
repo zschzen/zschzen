@@ -30,24 +30,6 @@ Game programmer with 10+ years of experience in game development, plus some expe
 -   :pencil2: Arch Linux / i3 / Oh My Zsh / tmux / NVim
 -   :paperclip: [Portfolio](https://portfolio.peres.dev/) | [Resume](https://resume.peres.dev/) | [Bio](https://links.peres.dev/)
 
-### 🔧 Tech
-
-
-![C](https://img.shields.io/badge/-C-000?&logo=c&logoColor=00599C) ![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus&logoColor=00599C) ![C#](https://img.shields.io/badge/-C%23-000?&logo=csharp&logoColor=239120) ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript) ![Python](https://img.shields.io/badge/-Python-000?&logo=python) ![Lua](https://img.shields.io/badge/-Lua-000?&logo=lua) ![Assembly](https://img.shields.io/badge/-Assembly-000?&logo=assemblyscript) 
-
-### Game Engines & Frameworks 
-
-![Unity](https://img.shields.io/badge/-Unity-000?&logo=unity) ![Unreal](https://img.shields.io/badge/-Unreal-000?&logo=unrealengine) ![Raylib](https://img.shields.io/badge/-Raylib-000?&logo=raylib) 
-
-### Graphics & Rendering 
-![OpenGL](https://img.shields.io/badge/-OpenGL-000?&logo=opengl) ![Vulkan](https://img.shields.io/badge/-Vulkan-000?&logo=vulkan) ![GLSL](https://img.shields.io/badge/-GLSL-000?&logo=glsl) 
-
-### Web Technologies
- ![React](https://img.shields.io/badge/-React-000?&logo=react) ![NextJS](https://img.shields.io/badge/-NextJS-000?&logo=nextdotjs) ![PHP](https://img.shields.io/badge/-PHP-000?&logo=php) ![WordPress](https://img.shields.io/badge/-WordPress-000?&logo=wordpress) 
-
-### 🧮 Mathematics & Physics
-![3D Math](https://img.shields.io/badge/-3D%20Math-000?&logo=math) ![Physics Simulation](https://img.shields.io/badge/-Physics%20Simulation-000?&logo=physics) ![Newtonian Dynamics](https://img.shields.io/badge/-Newtonian%20Dynamics-000?&logo=scientific) ![Calculus](https://img.shields.io/badge/-Calculus-000?&logo=calculator)
-
 ### 🌐 Social & Contact Links
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin)](https://linkedin.com/in/leandroperes) [![Email](https://img.shields.io/badge/-Email-000?&logo=gmail)](mailto:hello@peres.dev)
