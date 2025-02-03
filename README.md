@@ -34,7 +34,7 @@ Game programmer with 10+ years of experience in game development, plus some expe
 -   :hammer_and_pick: Custom Engines, Raylib, Unity C# Cg/HLSL, Unreal C++
 -   :package: Building [Dura2D](https://github.com/SOHNE/Dura2D) and more
 -   :pencil2: Arch Linux / i3 / Oh My Zsh / tmux / NVim
--   :paperclip: [Portfolio](https://portfolio.peres.dev/) | [Resume](https://resume.peres.dev/) | [Bio](https://links.peres.dev/)
+-   :paperclip: [Blog](https://peres.dev/) | [Portfolio](https://portfolio.peres.dev/) | [Resume](https://resume.peres.dev/) | [Bio](https://links.peres.dev/)
 
 ### 🌐 Social & Contact Links
 
