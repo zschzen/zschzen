@@ -27,7 +27,7 @@
   </samp>
 </p>
 
-### 👨‍💻 About Me
+### .·:[-i-]:·. About Me
 
 Game programmer with 10+ years of experience in game development, plus some experience in engine development, physics simulation, and graphics programming. Passionate about optimizing complex systems, mentoring developers, and building engaging gameplay experiences. Skilled in C + C++, Vulkan, OpenGL, and Assembly. Creator of various games, engines, emulators, shader tools, websites...
 
