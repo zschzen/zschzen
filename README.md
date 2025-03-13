@@ -40,6 +40,7 @@ Game programmer with 10+ years of experience in game development, plus some expe
 
 **Programming Languages:**  
 [![C](https://img.shields.io/badge/-C-000?&logo=c)](https://en.wikipedia.org/wiki/C_(programming_language)) [![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus)](https://en.wikipedia.org/wiki/C%2B%2B) [![C#](https://img.shields.io/badge/-C%23-000?&logo=csharp)](https://docs.microsoft.com/en-us/dotnet/csharp/) [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)](https://www.typescriptlang.org/) [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://www.python.org/) [![Lua](https://img.shields.io/badge/-Lua-000?&logo=lua)](https://www.lua.org/) [![Assembly](https://img.shields.io/badge/-Assembly-000?&logo=assemblyscript)](https://en.wikipedia.org/wiki/Assembly_language) 
+
 [![GLSL](https://img.shields.io/badge/-GLSL-000?&logo=opengl)](https://en.wikipedia.org/wiki/OpenGL_Shading_Language) [![Cg/HLSL](https://img.shields.io/badge/-Cg%2FHLSL-000?&logo=directx)]([https://en.wikipedia.org/wiki/OpenGL_Shading_Language](https://en.wikipedia.org/wiki/OpenGL_Shading_Language))
 
 **Game Engines:**  
