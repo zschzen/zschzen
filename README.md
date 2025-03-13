@@ -46,8 +46,11 @@ Game programmer with 10+ years of experience in game development, plus some expe
 **Game Engines:**  
 [![Raylib](https://img.shields.io/badge/-Raylib-000?&logo=raylib)](https://www.raylib.com/) [![Unity](https://img.shields.io/badge/-Unity-000?&logo=unity)](https://unity.com/) [![Unreal](https://img.shields.io/badge/-Unreal-000?&logo=unrealengine)](https://www.unrealengine.com/)
 
-**Graphics & Tools:**  
-[![Emscripten](https://img.shields.io/badge/-Emscripten-000?&logo=webassembly)](https://emscripten.org/) [![SDL/GLFW](https://img.shields.io/badge/-SDL/GLFW-000?&logo=sdl)](https://www.libsdl.org/) [![OpenGL/ES](https://img.shields.io/badge/-OpenGL-000?&logo=opengl)](https://www.opengl.org/) [![Vulkan](https://img.shields.io/badge/-Vulkan-000?&logo=vulkan)](https://www.vulkan.org/) [![DirectX](https://img.shields.io/badge/-DirectX-000?&logo=microsoft)](https://developer.microsoft.com/en-us/windows/directx/)
+**Graphics:**  
+[![OpenGL/ES](https://img.shields.io/badge/-OpenGL-000?&logo=opengl)](https://www.opengl.org/) [![Vulkan](https://img.shields.io/badge/-Vulkan-000?&logo=vulkan)](https://www.vulkan.org/) [![DirectX](https://img.shields.io/badge/-DirectX-000?&logo=microsoft)](https://developer.microsoft.com/en-us/windows/directx/)
+
+**Tools:**
+[![Emscripten](https://img.shields.io/badge/-Emscripten-000?&logo=webassembly)](https://emscripten.org/) [![SDL](https://img.shields.io/badge/-SDL-000?&logo=sdl)](https://www.libsdl.org/) [![GLFW](https://img.shields.io/badge/-GLFW-000)](https://www.glfw.org/) [![RGFW](https://img.shields.io/badge/-RGFW-000)]([https://rgfw.io](https://github.com/ColleagueRiley/RGFW))
 
 **Web Frameworks:**  
 [![React.js](https://img.shields.io/badge/-React.js-000?&logo=react)](https://reactjs.org/) [![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=nextdotjs)](https://nextjs.org/) [![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=vuedotjs)](https://vuejs.org/)
