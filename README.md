@@ -29,12 +29,12 @@
 
 ### 👨🏻‍💻 About Me
 
-Game programmer with 10+ years of experience in game development, plus some experience in engine development, physics simulation, and graphics programming. Passionate about optimizing complex systems, mentoring developers, and building engaging gameplay experiences. Skilled in C + C++, Vulkan, OpenGL, and Assembly. Creator of various games, engines, emulators, shader tools, websites...
-
 -   :hammer_and_pick: Custom Engines, Raylib, Unity C# Cg/HLSL, Unreal C++
 -   :package: Building [Dura2D](https://github.com/SOHNE/Dura2D) and more
 -   :pencil2: Arch Linux / i3 / Oh My Zsh / tmux / NVim
 -   :paperclip: [Blog](https://peres.dev/) :: [Portfolio](https://portfolio.peres.dev/) :: [Resume](https://resume.peres.dev/) :: [Bio](https://links.peres.dev/)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin)](https://linkedin.com/in/leandroperes) [![Email](https://img.shields.io/badge/-Email-000?&logo=gmail)](mailto:hello@peres.dev)
 
 ### 💻 Tech Stack
 
@@ -54,7 +54,3 @@ Game programmer with 10+ years of experience in game development, plus some expe
 
 **Web Frameworks:**  
 [![React.js](https://img.shields.io/badge/-React.js-000?&logo=react)](https://reactjs.org/) [![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=nextdotjs)](https://nextjs.org/) [![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=vuedotjs)](https://vuejs.org/)
-
-### 🌐 Social & Contact Links
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin)](https://linkedin.com/in/leandroperes) [![Email](https://img.shields.io/badge/-Email-000?&logo=gmail)](mailto:hello@peres.dev)
