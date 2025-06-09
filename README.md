@@ -32,7 +32,7 @@
 -   :hammer_and_pick: Custom Engines, Raylib, Unity C# Cg/HLSL, Unreal C++
 -   :package: Building [Dura2D](https://github.com/SOHNE/Dura2D) and more
 -   :pencil2: Arch Linux / i3 / Oh My Zsh / tmux / NVim
--   :paperclip: [Blog](https://peres.dev/) :: [Portfolio](https://portfolio.peres.dev/) :: [Resume](https://resume.peres.dev/) :: [Bio](https://links.peres.dev/)
+-   :paperclip: [Blog](https://blog.peres.dev/) :: [Portfolio](https://portfolio.peres.dev/) :: [Resume](https://resume.peres.dev/) :: [Bio](https://links.peres.dev/)
 -   💼 See [SOHNE](https://github.com/SOHNE) for my "released" products.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin)](https://linkedin.com/in/leandroperes) [![Email](https://img.shields.io/badge/-Email-000?&logo=gmail)](mailto:hello@peres.dev)
