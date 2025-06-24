@@ -13,12 +13,16 @@
         </samp>
 </h2>
 
-<p align="center">
-  「 A _**LGBT+**_ Game Worker from Goiânia, **Brazil** 🇧🇷 」
-  
-  <br>
-  
-  [Blog](https://blog.peres.dev/) · [Portfolio](https://portfolio.peres.dev/) · [Resume](https://resume.peres.dev/) · [Bio](https://links.peres.dev/)
+fix the below markdown:
+<p align="center"> 
+  <samp>
+
+    &#12300; A <i><b>LGBT+</b> Game Worker</i> from Goiânia, <b>Brazil</b> :brazil: &#12301;
+
+    <br>
+
+    [Blog](https://blog.peres.dev/) :: [Portfolio](https://portfolio.peres.dev/) :: [Resume](https://resume.peres.dev/) :: [Bio](https://links.peres.dev/)
+  </samp>
 </p>
 
 ### 👨🏻‍💻 About Me
