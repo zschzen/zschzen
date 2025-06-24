@@ -17,13 +17,7 @@
   <samp>
     &#12300; A <i><b>LGBT+</b> Game Worker</i> from Goiânia, <b>Brazil</b> :brazil: &#12301;
     <br>
-    <a href="https://www.last.fm/user/MrMeetes" target="_blank">
-      <img
-        src="https://badges.lastfm.workers.dev/last-played?user=MrMeetes&style=for-the-badge"
-        alt="Last track played on Last.fm"
-        style="display: block; margin: auto;"
-      />
-  </a>
+    [Blog](https://blog.peres.dev/) :: [Portfolio](https://portfolio.peres.dev/) :: [Resume](https://resume.peres.dev/) :: [Bio](https://links.peres.dev/)
   </samp>
 </p>
 
@@ -32,7 +26,6 @@
 -   :hammer_and_pick: Custom Engines, Raylib, Unity C# Cg/HLSL, Unreal C++
 -   :package: Building [Dura2D](https://github.com/SOHNE/Dura2D) and more
 -   :pencil2: Arch Linux / i3 / Oh My Zsh / tmux / NVim
--   :paperclip: <samp>[Blog](https://blog.peres.dev/) :: [Portfolio](https://portfolio.peres.dev/) :: [Resume](https://resume.peres.dev/) :: [Bio](https://links.peres.dev/)</samp>
 -   💼 See [SOHNE](https://github.com/SOHNE) for my "released" products.
 
 <p align="center" style="text-align: center;">
