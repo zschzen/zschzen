@@ -25,7 +25,7 @@
 -   [Blog](https://blog.peres.dev/) · [Portfolio](https://portfolio.peres.dev/) · [Resume](https://resume.peres.dev/) · [Bio](https://links.peres.dev/)
 -   :hammer_and_pick: Custom Engines, Raylib, Unity C# Cg/HLSL, Unreal C++
 -   :package: Building [Dura2D](https://github.com/SOHNE/Dura2D), [LeveGL](https://github.com/SOHNE/LeveGL) and [more...](http://releases.peres.dev/)
--   💼 See [SOHNE](https://github.com/SOHNE) for my "released" products.
+-   💼 See [SOHNE](https://github.com/SOHNE) for our released products.
 
 <p align="center" style="text-align: center;">
   
