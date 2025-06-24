@@ -1,4 +1,5 @@
 
+
 <a href="https://komarev.com/ghpvc/?username=zschzen">
   <img align="right" src="https://komarev.com/ghpvc/?username=zschzen&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
@@ -13,18 +14,15 @@
         </samp>
 </h2>
 
-fix the below markdown:
-<p align="center"> 
+<p align="center" style="text-align:center; justify-content: center;"> 
   <samp>
     &#12300; A <i><b>LGBT+</b> Game Worker</i> from Goiânia, <b>Brazil</b> :brazil: &#12301;
-    <br>
-
-    [Blog](https://blog.peres.dev/) :: [Portfolio](https://portfolio.peres.dev/) :: [Resume](https://resume.peres.dev/) :: [Bio](https://links.peres.dev/)
   </samp>
 </p>
 
 ### 👨🏻‍💻 About Me
 
+-   [Blog](https://blog.peres.dev/) · [Portfolio](https://portfolio.peres.dev/) · [Resume](https://resume.peres.dev/) · [Bio](https://links.peres.dev/)
 -   :hammer_and_pick: Custom Engines, Raylib, Unity C# Cg/HLSL, Unreal C++
 -   :package: Building [Dura2D](https://github.com/SOHNE/Dura2D) and more
 -   :pencil2: Arch Linux / i3 / Oh My Zsh / tmux / NVim
