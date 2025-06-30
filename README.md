@@ -34,6 +34,7 @@
   [![Shadertoy Badge](https://img.shields.io/badge/-shadertoy-404040?style=for-the-badge)](https://www.shadertoy.com/user/zschzen)
   [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/peres.dev)
   [![Codepen Badge](https://img.shields.io/badge/-CodePen-black?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/LeandroPeres)
+  
   [![Email me](https://img.shields.io/badge/Email%20me-leandro%40peres.dev-6D4AFF?style=for-the-badge&logo=mail&logoColor=white)](mailto:leandro@peres.dev)
 
 </p>
