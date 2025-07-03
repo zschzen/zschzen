@@ -16,7 +16,7 @@
 
 <p align="center" style="text-align:center; justify-content: center;"> 
   <samp>
-    &#12300; A <i><b>LGBT+</b> Game Worker</i> from [Goiânia, Brazil](https://en.wikipedia.org/wiki/Goi%C3%A2nia) :brazil: &#12301;
+    &#12300; A <i><b>LGBT+</b> Game Worker</i> from <a href="https://en.wikipedia.org/wiki/Goi%C3%A2nia" target="_blank">Goiânia, Brazil</a> 🇧🇷 &#12301;
   </samp>
 </p>
 
