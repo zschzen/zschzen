@@ -1,6 +1,3 @@
-
-
-
 <a href="https://komarev.com/ghpvc/?username=zschzen">
   <img align="right" src="https://komarev.com/ghpvc/?username=zschzen&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
@@ -14,24 +11,30 @@
               🖖
         </samp>
 </h2>
-
-<p align="center" style="text-align:center; justify-content: center;"> 
-  <samp>
-    &#12300; A <i><b>LGBT+</b> Game Worker</i> from <a href="https://en.wikipedia.org/wiki/Goi%C3%A2nia" target="_blank">Goiânia, Brazil</a> 🇧🇷 &#12301;
-  </samp>
-	<nav>
+	 <h4 align="center">
+ <samp>
+  	<span>
 	  <a href="https://blog.peres.dev/">Blog</a> &middot;
 	  <a href="https://portfolio.peres.dev/">Portfolio</a> &middot;
 	  <a href="https://resume.peres.dev/">Resume</a> &middot;
 	  <a href="https://links.peres.dev/">Bio</a>
-	</nav>
+	</span>
+	 <samp>
+	 </h4>
+
+<p align="center" style="text-align:center; justify-content: center;"> 
+  <samp>
+    &#12300; A <i><b>LGBT+</b> Game Worker</i> from <a href="https://en.wikipedia.org/wiki/Goi%C3%A2nia" target="_blank">Goiânia, Brazil 🇧🇷</a> &#12301;
+  </samp>
 </p>
+
+---
 
 ### 👨🏻‍💻 About Me
 
--   :hammer_and_pick: Custom Engines, Raylib, Unity C# Cg/HLSL, Unreal C++
--   :package: Building [Dura2D](https://github.com/SOHNE/Dura2D), [LeveGL](https://github.com/SOHNE/LeveGL) and [more...](http://releases.peres.dev/)
--   💼 See [SOHNE](https://github.com/SOHNE) for our released products.
+- :hammer_and_pick: Custom Engines, Raylib, Unity C# Cg/HLSL, Unreal C++
+- :package: Building [Dura2D](https://github.com/SOHNE/Dura2D), [LeveGL](https://github.com/SOHNE/LeveGL) and [more...](http://releases.peres.dev/)
+- 💼 See [SOHNE](https://github.com/SOHNE) for our released products.
 
 <p align="center" style="text-align: center;">
   
