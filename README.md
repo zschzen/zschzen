@@ -14,10 +14,10 @@
 	 <h4 align="center">
  <samp>
   	<span>
-	  <a href="https://blog.peres.dev/">Blog</a> &middot;
-	  <a href="https://portfolio.peres.dev/">Portfolio</a> &middot;
 	  <a href="https://resume.peres.dev/">Resume</a> &middot;
-	  <a href="https://links.peres.dev/">Bio</a>
+	  <a href="https://peres.dev/projects">Portfolio</a> &middot;
+	  <a href="https://peres.dev/posts">Blog</a> &middot;
+	  <a href="https://peres.dev/notes">Notes</a>
 	</span>
 	 <samp>
 	 </h4>
