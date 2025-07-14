@@ -15,9 +15,10 @@
  <samp>
   	<span>
 	  <a href="https://resume.peres.dev/">Resume</a> &middot;
-	  <a href="https://peres.dev/projects">Portfolio</a> &middot;
+	  <a href="https://peres.dev/projects">Projects</a> &middot;
 	  <a href="https://peres.dev/posts">Blog</a> &middot;
 	  <a href="https://peres.dev/notes">Notes</a>
+	  <a href="https://peres.dev/lab">Laboratory</a>
 	</span>
 	 <samp>
 	 </h4>
