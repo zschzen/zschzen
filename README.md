@@ -1,9 +1,11 @@
-
-<a href="https://komarev.com/ghpvc/?username=zschzen">
-  <img align="right" src="https://komarev.com/ghpvc/?username=zschzen&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
-
-[![wakatime](https://wakatime.com/badge/user/4dc0c3b5-1e64-4d6a-84b4-a6cd17b7cdac.svg)](https://wakatime.com/@4dc0c3b5-1e64-4d6a-84b4-a6cd17b7cdac)
+<div style="display: flex; justify-content: space-between;">
+  <a href="https://wakatime.com/@4dc0c3b5-1e64-4d6a-84b4-a6cd17b7cdac">
+    <img src="https://wakatime.com/badge/user/4dc0c3b5-1e64-4d6a-84b4-a6cd17b7cdac.svg" alt="wakatime" />
+  </a>
+  <a href="https://komarev.com/ghpvc/?username=zschzen">
+    <img src="https://komarev.com/ghpvc/?username=zschzen&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+  </a>
+</div>
 
 <!-- Intro  -->
 <h2 align="center">
