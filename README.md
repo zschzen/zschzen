@@ -47,5 +47,14 @@
   [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/peres.dev)
   [![Codepen Badge](https://img.shields.io/badge/-CodePen-black?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/LeandroPeres)
   [![Email me](https://img.shields.io/badge/Email%20me-leandro%40peres.dev-6D4AFF?style=for-the-badge&logo=mail&logoColor=white)](mailto:leandro@peres.dev)
-
 </div>
+
+
+
+---
+
+<div align="center"><h6><code class="bg-transparent! leading-none">
+Come cheer up, my lads<br/>
+  ￣￣￣∨￣￣￣￣￣￣￣￣￣￣￣<br/>
+!( ・∀)つ且~≁~且⊂(´∀｀ )ﾉ*
+</code></h6><hr/><h6><i>Every answer generates further questions</i></h6></div>
