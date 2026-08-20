@@ -52,9 +52,5 @@
 ---
 
 <div align="center">
-  <pre><code>  Come cheer up, my lads
-  ￣￣￣∨￣￣￣￣￣￣￣￣￣￣￣
-  !( ・∀)つ且~≁~且⊂(´∀｀ )ﾉ*</code></pre>
-  <hr/>
   <h6><i>Every answer generates further questions</i></h6>
 </div>
