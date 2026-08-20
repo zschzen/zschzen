@@ -6,12 +6,12 @@
 [![wakatime](https://wakatime.com/badge/user/4dc0c3b5-1e64-4d6a-84b4-a6cd17b7cdac.svg)](https://wakatime.com/@4dc0c3b5-1e64-4d6a-84b4-a6cd17b7cdac)
 
 <!-- Intro  -->
-<h2 align="center">
+<h1 align="center">
   <samp>&gt; Olá!, I am
     <b><a target="_blank" href="https://peres.dev/">Leandro Peres</a></b>
     🖖
   </samp>
-</h2>
+</h1>
 
 <p align="center" style="text-align:center;">
   <samp>
